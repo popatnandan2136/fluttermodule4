@@ -1,0 +1,12 @@
+->Hive (Key-Value Storage)
+
+Stores data as key-value pairs.
+Very fast and simple.
+Best for settings, themes, login status, user preferences.
+
+
+->SQLite (Relational Database)
+
+Stores data in tables with rows and columns.
+Supports complex queries.
+Best for structured data with relationships.

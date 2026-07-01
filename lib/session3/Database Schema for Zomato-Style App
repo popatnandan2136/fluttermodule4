@@ -1,0 +1,15 @@
+| Column   | Type    |
+| -------- | ------- |
+| id       | INTEGER |
+| name     | TEXT    |
+| location | TEXT    |
+| rating   | REAL    |
+
+const String createRestaurantTable = '''
+CREATE TABLE Restaurants(
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  name TEXT NOT NULL,
+  location TEXT NOT NULL,
+  rating REAL NOT NULL
+);
+''';
