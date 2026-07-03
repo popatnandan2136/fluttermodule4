@@ -42,6 +42,15 @@ class MyApp extends StatelessWidget {
 
       // Session3
             // home: SQLiteDemo(),
+      // Session4
+            // home: SQLiteDemo(),
+      // Session5
+            // home: MyOrdersList2(),
+      // Session6
+            // home: RestaurantScreen(),
+      // Session7
+            // home: ProductScreen(),
+
     );
   }
 }
