@@ -50,7 +50,10 @@ class MyApp extends StatelessWidget {
             // home: RestaurantScreen(),
       // Session7
             // home: ProductScreen(),
-
+      //Capstone Session 1
+            // home: MovieScreen(),
+      //Capstone Session 2
+            // home: RestaurantListScreen(),
     );
   }
 }
